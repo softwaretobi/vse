@@ -2,15 +2,6 @@
 
 VSE (Valve Game Flood) est un outil développé en C pour effectuer des attaques de flood sur les serveurs de jeux Valve utilisant le protocole Source Query. Ce projet a été conçu à des fins éducatives pour illustrer les concepts de manipulation de paquets réseau.
 
-## Table des matières
-
-- [Aperçu](#aperçu)
-- [Fonctionnalités](#fonctionnalités)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Avertissements](#avertissements)
-- [Contributions](#contributions)
-- [Licence](#licence)
 
 ## Aperçu
 
